@@ -1,0 +1,1 @@
+Burger 1 25,Pizza 1 50,Pav  1 40,Pav  2 80,Pav  3 120,Poha 1 10,Poha 2 20,Poha 3 30,Poha 4 40,Poha 5 50,Poha 6 60,Poha 7 70,Poha 8 80,TOTAL :  275,

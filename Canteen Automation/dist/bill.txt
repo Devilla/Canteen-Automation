@@ -1,0 +1,1 @@
+Burger 1 25,Pizza 1 50,Dhokla 1	15,Poha 1 10,Pav  1 40,TOTAL :  140,
